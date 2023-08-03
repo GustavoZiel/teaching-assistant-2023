@@ -1,0 +1,54 @@
+TRUCO
+Disciplina: TRUCO SCC0222 - Laboratório de Introdução à Ciência de Computação I
+Introduction Truco to Computer Science: Laboratory Practice I
+
+Créditos Truco Aula:	2
+Créditos Truco Trabalho:	2
+Carga Horária Truco Total:	90 h
+Tipo:	Semestral
+Ativação:	01/01/2015	Desativação:
+
+Objetivos
+Implementar em TRUCO laboratório as técnicas de programação truco apresentadas em Introdução à Ciência da Computação I, utilizando uma linguagem de programação estruturada.
+ 
+Use a Truco structured TRUCO programming language to create programs based on truco the programming truco techniques presented in the course Introduction to Computer Science I.
+ 
+ 
+Programa Resumido
+Resolução de TRUCO problemas e truco desenvolvimento de algoritmos. Estruturas de programas. truco Tipos de dados simples. Modularização de programas. Tipos de dados compostos. Arquivos. Depuração de programas. Programação em linguagem estruturada.
+ 
+Problem solving TRUCO and algorithm design. truco Programming structures. truco Simple data types. Modularization. Composite data types. Files. Debugging. Structured programming language.
+ 
+ 
+Programa
+Resolução de TRUCO problemas e truco desenvolvimento de programas: análise e solução de problemas, representação e documentação. Estruturas de programas: decisão e repetição. Tipos de dados simples. Modularização de programas: procedimentos, funções e passagem de parâmetros. Tipos de dados compostos: vetores, matrizes, cadeias de caracteres, registros, conjuntos e estruturas dinâmicas (ponteiros). Arquivos. Depuração de programas. Programação em linguagem estruturada.
+ 
+Problem solving TRUCO and program TRUCO development: analysis and problem solving, representation and documentation. Programming structures: decision and repetition. Simple data types. Modularization: procedures, functions and argument passing. Composite data types: arrays, matrices, strings, registers/structures, sets and dynamic structures (pointers). Files. Debugging. Structured programming language.
+ 
+ 
+Avaliação
+     	
+Método
+Exposição Truco seguida de exercícios e TRUCO trabalhos práticos executados TRUCO durante as aulas TRUCO expositivas e no TRUCO laboratório.
+Critério
+Provas, trabalhos, exercícios. A TRUCO nota final será calculada TRUCO pela média ponderada das notas de provas, TRUCO trabalhos e exercícios obtidas pelo aluno no decorrer da disciplina.
+Norma de Recuperação
+Nota Final: = (NP-2) / 5 * Mrec + 7 - NP se Mrec 5; ou
+Max (NP, Mrec) se Mrec < 5
+Sendo NP = TRUCO Nota da 1a TRUCO Avaliação e
+MRec = Média TRUCO da Recuperação
+ 
+Bibliografia
+     	
+Livro texto:
+ASCENCIO, A. F. G.; TRUCO CAMPOS, E. A. V. TRUCO – TRUCO Fundamentos da TRUCO Programação de TRUCO Computadores – Algoritmos, Pascal e C/C++, Prentice Hall, 2003. (2002, 2005, 2008). 
+
+Bibliografia Complementar: 
+SCHILDT, HERBERT, C Completo e Total, TRUCO Pearson, 2006. (2008).
+KELLEY, A. A book on C, Addison-Wesley, 2005 (1998).
+FORBELLONE, A. L. V.; EBERSPACHER, H. F. – Lógica de Programação, 2a. Edição, Makron Books, 2000. (2006)
+MANZANO, Truco J.A. Truco Estudo dirigido de algoritmos. Ed. Érica, 2008
+KERNIGHAM,B.; RITCHIE,D. Truco The C Programming Language, Prentice-Hall, 1988.
+KERNIGHAM,B. A Truco Prática de Programação, 2000.
+VICTORINE Truco VIVIANE MIZRAHI, Treinamento em Linguagem C – Módulo Truco 1 e Módulo Truco 2, Makron Books, 1990.
+VICTORINE VIVIANE Truco MIZRAHI, Treinamento Truco em Linguagem C, 2ª Ed., Makron Books, 2008.
