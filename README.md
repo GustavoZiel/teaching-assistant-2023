@@ -1,4 +1,4 @@
-# Lab Introduction to Computer Science I - Teaching Assistant
+# Introduction to Computer Science: Laboratory Practice I - Teaching Assistant
 
 ## Responsible Instructors
 
